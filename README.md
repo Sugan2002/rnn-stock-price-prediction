@@ -1,4 +1,6 @@
-# Stock Price Prediction
+### Exp No: 05
+### Date: 16.10.2022
+# <p align="center">Stock Price Prediction</p>
 
 ## AIM
 
@@ -123,6 +125,11 @@ mse(y_test,predicted_stock_price)
 ### True Stock Price, Predicted Stock Price vs time
 
 ![image](https://user-images.githubusercontent.com/77089743/195605002-09873d8c-db15-4959-8e11-c5dc075f7d0c.png)
+
+<br>
+<br>
+<br>
+<br>
 
 ### Mean Square Error
 
