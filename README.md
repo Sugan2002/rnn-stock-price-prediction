@@ -130,6 +130,8 @@ mse(y_test,predicted_stock_price)
 <br>
 <br>
 <br>
+<br>
+<br>
 
 ### Mean Square Error
 
